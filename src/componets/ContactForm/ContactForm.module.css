@@ -2,7 +2,8 @@
 {
     display:flex;
     max-width:1000px; 
-    height:auto;  
+    height:auto; 
+    align-items: end; 
    
 }
 .top_btn
